@@ -1,0 +1,28 @@
+Tennis Players
+        Attributes :-
+First Name
+Last Name
+Nationality
+Age
+Height
+Weight
+DOB
+Birthplace
+Plays
+Current Singles Ranking
+Career High in Singles Ranking 
+Current Doubles Ranking
+Career High in  Doubles Ranking
+career titles in singles
+career titles in doubles 
+number of wins
+number of loses
+ 
+RESOURCES
+
+
+https://www.atptour.com/en/players/novak-djokovic/d643/overview(403 Error)
+https://www.tennisexplorer.com/list-players/
+https://www.wtatennis.com/players/326408/iga-swiatek#overview
+http://www.espn.com/tennis/players
+https://www.wimbledon.com/en_GB/players/index.html(403 Error)

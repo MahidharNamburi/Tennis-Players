@@ -1,0 +1,91 @@
+Name :
+  	  “ first_name,last_name  అధికారిక టెన్నిస్ టౌర్నమెంట్స్ ఆడే ప్రముకమైన టెన్నిస్ క్రీడాకారుడు.”
+        "అధికారిక టెన్నిస్ ఆటలు ఆడే ప్రఖ్యాతకంచినా టెన్నిస్ ఆటగాడు first_name last_name”.
+        “ first_name,last_name ఒక ప్రొఫషనల్ టెన్నిస్ క్రీడాకారుడు.”
+     
+  
+
+Age :
+ 	first_name last_name age సంవస్త్రాల వయసుగల ప్రొఫెషనల్  టెన్నిస్ ఆటగాడు.
+       అతని వయసు  age  సంవస్త్రాలు ఉంటాయి. 
+
+DOB :
+   	అతను DOB  తేదీనా  జన్మించాడు. 
+   	అతని పుట్టిన తేది  DOB.
+
+Country :
+ 	“అతను country దేశానికీ చందినవాడు.”
+ 	“country దేశానికీ చందిన  ప్రముఖ  టెన్నిస్  క్రీడాకారుడు  first_name last_name.” 
+ 	“first_name last_name country,"అనే దేశంలో జన్మించాడు.”
+
+
+Height :
+	“అతని ఎత్తు height.”
+	“height ఎత్తుగల ఆటగాడు first_name.”
+
+
+Weight :
+	“అతని బరువు  weight.”
+
+
+
+Current Singles  :
+	“ first_name last_name  ప్రస్తుత   ఏ.టీ.పి(అసోసియేషన్ ఆఫ్ టెన్నిస్ ప్రొఫెషనల్స్)  సింగిల్స్ ర్యాంకింగ్స్లో  current_singles స్థానంలో  ఉన్నాడు.”
+	“2022 మేన్స్ ఏ.టీ.పి సింగిల్స్ ర్యాంకింగ్స్లో current_singles స్థానంలో  ఉన్నాడు",first_name,last_name.” 
+
+
+Highest Singles:  
+     “ first_name last_name ఇప్పటి వరుకు  ఏ.టీ.పి(అసోసియేషన్ ఆఫ్ టెన్నిస్ ప్రొఫెషనల్స్) సింగిల్స్ ర్యాంకింగ్స్లో తన  అత్యున్నత స్థానం highest_singles  సాధించాడు.” 
+     “ అధికారిక సింగిల్స్ ర్యాంకింగ్స్లో highest_singles తన అత్తాధిక ర్యాంక్.”
+      
+
+
+Current Doubles:  
+	“ first_name last_name  ప్రస్తుత   ఏ.టీ.పి(అసోసియేషన్ ఆఫ్ టెన్నిస్ ప్రొఫెషనల్స్)  డబుల్స్ ర్యాంకింగ్స్లో  current_doubles  స్థానంలో  ఉన్నాడు.”
+      “ 2022 మేన్స్ ఏ.టీ.పి డబుల్స్ ర్యాంకింగ్స్లో current_doubles స్థానంలో  ఉన్నాడు first_name,last_name.”
+    
+
+   
+Highest  Doubles:        
+   “  first_name last_name  ఇప్పటి వరుకు  ఏ.టీ.పి(అసోసియేషన్ ఆఫ్ టెన్నిస్ ప్రొఫెషనల్స్) డబుల్స్ ర్యాంకింగ్స్లో తన  అత్యున్నత స్థానం highest_doubles సాధించాడు. “
+   “first_name,last_name అధికారిక డబుల్స్ ర్యాంకింగ్స్లో highest_doubles తన అత్తాధిక ర్యాంక్.”
+     
+          
+ Singles Main Tournaments: 
+ 	“first_name last_name ఇప్పటి వరుకు  singles_main_tournaments  ప్రఖ్యాతకంచినా మెన్స్ సింగిల్స్ టెన్నిస్ టౌర్నమెంట్స్లో  విజయతగా నిలిచాడు.”
+  	“singles_main_tournaments," సింగిల్స్ ప్రముకమైన టెన్నిస్ టౌర్నమెంట్స్లో గెలిచాడు",first_name."
+
+ 
+ Singles Lower Tournaments:
+ 	“first_name last_name   ఇప్పటి వరుకు singles_lower_tournaments ప్రఖ్యాతిగాంచిన  మెన్స్ సింగిల్స్ టెన్నిస్ టౌర్నమెంట్స్లో  విజయతగా నిలిచాడు.”
+      "ఇప్పటి వరుకు singles_lower_tournaments  లోవెర్ మెన్స్ సింగిల్స్ టెన్నిస్ టౌర్నమెంట్స్లో గెలుపొందాడు.”
+  
+
+
+ Doubles  Main Tournaments: 
+ 	“first_name last_name   ఇప్పటి వరుకు  doubles_main_tournaments  ప్రఖ్యాతిగాంచిన మెన్స్ డబుల్స్ టెన్నిస్ టౌర్నమెంట్స్లో  విజయతగా నిలిచాడు.”
+  	“ doubles_main_tournaments  డబుల్స్ ప్రముకమైన టెన్నిస్ టౌర్నమెంట్స్లో గెలిచాడు last_name."
+
+
+
+ Doubles  Lower  Tournaments: 
+ 	“first_name last_name  ఇప్పటి వరుకు  doubles_lower_tournaments ప్రఖ్యాతిగాంచిన  మెన్స్ సింగిల్స్ టెన్నిస్ టౌర్నమెంట్స్లో  విజయతగా నిలిచాడు. “
+  
+
+Total Singles Matches:
+ 	“first_name last_name   ఇప్పటి వరుకు మొత్తం  total_singles_matches అధికారిక మెన్స్ సింగిల్స్ టెన్నిస్ మ్యాచ్లు ఆటాడేడు.”   
+  	“first_name last_name ,total_singles_matches  టెన్నిస్ సింగిల్స్ సింగిల్స్ ఆటలు ఆటాడేడు.”
+   
+
+Single Wins:
+	“ అధికారిక మెన్స్ సింగిల్స్ టెన్నిస్ ఆటలలో ఇప్పటి వరుకు  first_name  last_name wins_singles  మ్యాచ్లు గెలిచాడు.” 
+      “అతను  మెన్స్ సింగిల్స్ టెన్నిస్ ఆటలలో  గెలిచిన  మ్యాచ్ల  సంఖ్య  wins_singles .”
+	“తాను ఆడిన అధికారిక total_singles_matches అట్లలలో wins_singles ఆటలలో విజయతగా నిలిచాడు.”
+
+
+
+Single Loses:
+	“ అధికారిక మెన్స్ సింగిల్స్ టెన్నిస్ ఆటలలో ఇప్పటి వరుకు   first_name last_name loses_singles  మ్యాచ్లు ఓడిపోయాడు .”
+ 	“ అతను   మెన్స్ సింగిల్స్ టెన్నిస్ ఆటలలో  ఓడిపోయిన మ్యాచ్ల  సంఖ్య  loses_singles .”
+  	“ తాను ఆడిన అధికారిక total_singles_matches అట్లలలో losses_singles ఆటలు ఓడిపోయాడు."
+
